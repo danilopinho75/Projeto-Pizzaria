@@ -1,0 +1,10 @@
+# Ignorar node_modules na pasta frontend
+/frontend/node_modules/
+
+# Ignorar node_modules na pasta backend
+/backend/node_modules/
+
+# Outras regras comuns para ignorar
+.DS_Store      # Para sistemas macOS
+.env           # Para arquivos de configuração de ambiente, caso existam
+*.log          # Arquivos de log
